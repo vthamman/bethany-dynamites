@@ -1,4 +1,4 @@
 bethany-dynamites
 =================
 
-Repository to manager FLL programs
+Repository to manage FLL programs
